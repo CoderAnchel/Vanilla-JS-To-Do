@@ -60,6 +60,7 @@ body {
     padding: 10px;
     color: #c8d0d9;
     margin-top: 20px;
+    font-size: 20px;
 }
 
 .card{
@@ -113,4 +114,13 @@ body {
 
 .x:hover{
     cursor: pointer;
+}
+
+.delElem {
+    background: #b92427;
+    width: 100%;
+    max-width: 700px;
+    padding: 10px;
+    color: #c8d0d9;
+    font-size: 13px;
 }
